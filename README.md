@@ -1,2 +1,8 @@
-# Wanters-of-Dua
-This webpage is to who want to do charity. 
+# Wanters-of-Dua - пробный проект 
+Проект выполнил : Самандар Муталов
+
+## Используемы технологии
+- HTML
+- CSS
+- Normalize.css
+- SVG Sprite
